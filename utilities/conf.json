@@ -1,0 +1,5 @@
+{
+  "baseUrl":"https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AVQVeyxh4ILLb1ixb6eTAEU6QMGiheOthDfnbLpHMvOcV_lcGgtQMV3W0krVkFFtlTs4Lkq1eAiySA&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285840583%3A1699864301867279&theme=glif",
+  "user": "qa@kaymera.com",
+  "password": "ThisIsKAYMERA!"
+}
